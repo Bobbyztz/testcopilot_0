@@ -9,6 +9,9 @@ public class Main {
         System.out.println("hi 1_0");
         System.out.println("hi 1_1");
         System.out.println("hi 1_2");
+        System.out.println("hi 2_0");
+        System.out.println("hi 2_1");
+        System.out.println("hi 2_2");
     }
 
 
